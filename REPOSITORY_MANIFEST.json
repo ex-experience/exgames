@@ -1,0 +1,51 @@
+{
+  "project": "ARABIA STRIKE",
+  "version": "20.2.0-night-siege-density",
+  "entrypoint": "index.html",
+  "github_pages": {
+    "branch": "main",
+    "folder": "/(root)"
+  },
+  "files": {
+    ".gitignore": {
+      "sha256": "ef1dbf56e08bb8ccc886f61b4a49a70c0fa87081b1cdd88390a7cabc2403aab7",
+      "bytes": 103
+    },
+    ".nojekyll": {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    "COPYRIGHT_NOTICE.md": {
+      "sha256": "4227ba0288072545dc00cfc73fd90956b42827d61d68125b3af8292b1e04e0f1",
+      "bytes": 673
+    },
+    "README.md": {
+      "sha256": "95a87c30b9c490cd26472736eba12f19b70382c63a37b3ffa154c322041d2091",
+      "bytes": 2299
+    },
+    "REPOSITORY_MANIFEST.json": {
+      "sha256": "9bfb177b2778d3df9f04adf96ccef7803dcc4983e61e0f0393dc4e32870c39db",
+      "bytes": 1340
+    },
+    "VERSION.txt": {
+      "sha256": "447673a5c4dc26cab8ba6261e8067390ce2776c4098f57226b0b6773eccbc0a9",
+      "bytes": 217
+    },
+    "docs/DEPLOY_GITHUB_PAGES.md": {
+      "sha256": "598c24d1f5f93d7e3c2463ce0bbd0bd3cc204caed0af125c0e92d55a30bccdbe",
+      "bytes": 1196
+    },
+    "docs/QA_REPORT.txt": {
+      "sha256": "ef657cb93235a96155978620b0e71c73b1999e526a77b7073b6df66edfb18048",
+      "bytes": 474
+    },
+    "docs/RELEASE_NOTES.md": {
+      "sha256": "f16e20794a148362af0a472f0c07bd93bba47d890d62666d214bce68d91fe2c2",
+      "bytes": 972
+    },
+    "index.html": {
+      "sha256": "d769018c131256f2565ba0a81d3e4323ec594ee7a6779f33782ae74106e7ede9",
+      "bytes": 1486056
+    }
+  }
+}

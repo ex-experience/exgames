@@ -1,0 +1,28 @@
+ARABIA STRIKE V20.2 QA
+======================
+
+single_script: PASS
+start: PASS
+fire: PASS
+jump: PASS
+bomb: PASS
+use: PASS
+density_marker: PASS
+Classic JS parse: PASS
+Embedded assets: PASS — 54
+Runtime:
+{
+  "ready": true,
+  "running": true,
+  "assets": 54,
+  "platforms": 10,
+  "roofEnemies": 10,
+  "downFire": true,
+  "airRaiders": true,
+  "rescueRewards": true,
+  "density": true,
+  "world": true,
+  "draw": true
+}
+
+Local Windows double-click: NOT VERIFIED in container.

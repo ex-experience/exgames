@@ -1,0 +1,7 @@
+ARABIA STRIKE
+Version: 20.2.0-night-siege-density
+Release: V20.2 — NIGHT SIEGE DENSITY PASS
+Architecture: Standalone single-file HTML5 Canvas game
+Entry point: index.html
+Runtime dependencies: None
+Build step: None
